@@ -7,8 +7,8 @@
           * The player always goes forward automatically and the game gets faster by time alive. <br>
       </p>		
       <h4> Controls: </h4>
-      <p> * A to move left, D to move to right.
-	  * Space to jump above fence obstacle.
+      <p> * A to move left, D to move to right. <br>
+	  * Space to jump above fence obstacle. <br>
       </p>	
 
 <p>	I have personalized the game by adding hit animation and sounds. <br>
