@@ -1,6 +1,6 @@
 <h2> DinoRush 3D VR-PC Game </h2>
 <body>
-  <h4> DinoRush game is a final project for my "Special Topics in Computer Engineering" class. </h4> <br>
+  <h4> DinoRush game is a final project for my "Special Topics in Computer Engineering" class. </h4>
     <h4> Explanation: </h4>
       <p> * DinoRush is an infinite platform game inspired by Google's 2D Dinosaur game. <br>
           * The objective is to travel the farthest distance while dodging the obstacles. <br>
