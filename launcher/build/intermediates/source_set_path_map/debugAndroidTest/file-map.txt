@@ -1,0 +1,5 @@
+com.unity.vrtemplate.test.launcher-androidTest-0 /Users/w/Desktop/17/launcher/build/generated/res/resValues/androidTest/debug
+com.unity.vrtemplate.test.launcher-androidTest-1 /Users/w/Desktop/17/launcher/build/generated/res/rs/androidTest/debug
+com.unity.vrtemplate.test.launcher-mergeDebugAndroidTestResources-2 /Users/w/Desktop/17/launcher/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.unity.vrtemplate.test.launcher-mergeDebugAndroidTestResources-3 /Users/w/Desktop/17/launcher/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.unity.vrtemplate.test.launcher-merged_res-4 /Users/w/Desktop/17/launcher/build/intermediates/merged_res/debugAndroidTest

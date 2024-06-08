@@ -1,0 +1,10 @@
+com.unity.vrtemplate.launcher-pngs-0 /Users/w/Desktop/17/launcher/build/generated/res/pngs/release
+com.unity.vrtemplate.launcher-resValues-1 /Users/w/Desktop/17/launcher/build/generated/res/resValues/release
+com.unity.vrtemplate.launcher-rs-2 /Users/w/Desktop/17/launcher/build/generated/res/rs/release
+com.unity.vrtemplate.launcher-mergeReleaseResources-3 /Users/w/Desktop/17/launcher/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.unity.vrtemplate.launcher-mergeReleaseResources-4 /Users/w/Desktop/17/launcher/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.unity.vrtemplate.launcher-merged_res-5 /Users/w/Desktop/17/launcher/build/intermediates/merged_res/release
+com.unity.vrtemplate.launcher-main-6 /Users/w/Desktop/17/launcher/src/main/res
+com.unity.vrtemplate.launcher-release-7 /Users/w/Desktop/17/launcher/src/release/res
+com.unity.vrtemplate.launcher-packaged_res-8 /Users/w/Desktop/17/unityLibrary/build/intermediates/packaged_res/release
+com.unity.vrtemplate.launcher-packaged_res-9 /Users/w/Desktop/17/unityLibrary/xrmanifest.androidlib/build/intermediates/packaged_res/release

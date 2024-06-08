@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots="/Users/w/Desktop/17@@:unityLibrary::release">
+    <dependency
+        name="/Users/w/Desktop/17@@:unityLibrary::release"
+        simpleName="17:unityLibrary"/>
+  </compile>
+  <package
+      roots="/Users/w/Desktop/17@@:unityLibrary::release,__local_aars__:/Users/w/Desktop/17/unityLibrary/libs/unity-classes.jar:unspecified@jar,:InteractionSdk:@aar,:OVRPlugin:@aar,/Users/w/Desktop/17@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="/Users/w/Desktop/17@@:unityLibrary::release"
+        simpleName="17:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/w/Desktop/17/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:/Users/w/Desktop/17/unityLibrary/libs/unity-classes.jar"/>
+    <dependency
+        name=":InteractionSdk:@aar"
+        simpleName=":InteractionSdk"/>
+    <dependency
+        name=":OVRPlugin:@aar"
+        simpleName=":OVRPlugin"/>
+    <dependency
+        name="/Users/w/Desktop/17@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="17.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>
