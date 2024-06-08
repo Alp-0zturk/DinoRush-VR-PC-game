@@ -14,7 +14,7 @@
       	<p> for Oculus Quest VR: <br>
       	  * I have used XR Interaction Manager to implement the game to VR controller. <br>
         </p>
-
+<br>
 <p>	I have personalized the game by adding hit animation and sounds. <br>
 	This game has keyboard support. You can play in PC if you can run .apk file in your computer.
 	You can find the trailer for PC in the repository. <br>
