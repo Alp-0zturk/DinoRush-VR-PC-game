@@ -12,7 +12,7 @@
 	  * Space to jump above fence obstacle. <br>
         </p>	
       	<p> for Oculus Quest VR: <br>
-      	  * I have used XR Interaction Manager to implement the game to VR controller.
+      	  * I have used XR Interaction Manager to implement the game to VR controller. <br>
         </p>
 
 <p>	I have personalized the game by adding hit animation and sounds. <br>
