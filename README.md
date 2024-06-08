@@ -7,9 +7,13 @@
           * The player always goes forward automatically and the game gets faster by time alive. <br>
       </p>		
       <h4> Controls: </h4>
-      <p> * A to move left, D to move to right. <br>
+	<p> for PC: <br>
+      	  * A to move left, D to move to right. <br>
 	  * Space to jump above fence obstacle. <br>
-      </p>	
+        </p>	
+      	<p> for Oculus Quest VR: <br>
+      	  * I have used XR Interaction Manager to implement the game to VR controller.
+        </p>
 
 <p>	I have personalized the game by adding hit animation and sounds. <br>
 	This game has keyboard support. You can play in PC if you can run .apk file in your computer.
