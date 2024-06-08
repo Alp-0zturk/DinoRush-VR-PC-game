@@ -6,7 +6,7 @@
           * The objective is to travel the farthest distance while dodging the obstacles. <br>
           * The player always goes forward automatically and the game gets faster by time alive. <br>
       </p>		
-<br>
+
 <p>	I have personalized the game by adding hit animation and sounds. <br>
 	You can find the trailer (PC) in the repository. <br>
 </p>
