@@ -11,5 +11,5 @@
 	You can find the trailer (PC) in the repository. <br>
 </p>
 	
-<p> You can access the .apk file in launcher/release . </p>
+<p> You can access the .apk file in launcher/release folder. </p>
 </body>
